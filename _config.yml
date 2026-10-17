@@ -1,3 +1,5 @@
-title: "Tropenkoorts Archive"
-description: "Restored from 2005 Movable Type"
+title: "Tropenkoorts 2005"
+description: "Archived Movable Type Blog"
 theme: minima
+baseurl: "/tropenkoorts-2005" # The name of your GitHub repository
+url: "https://bede-enterprises.github.io"
